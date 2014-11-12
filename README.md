@@ -6,7 +6,7 @@ Foundation::Rails is a gem to make it super easy to use Foundation in your upcom
 
 Add this line to your application's Gemfile:
 
-    $ gem 'foundation-rails', git: 'git@github.com:kyan/foundation-rails-kyan.git'
+    $ gem 'foundation-rails'
 
 And then execute:
 
